@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.1",
 	"FriendlyName": "BlueprintSubsystems",
 	"Description": "Simple plugin for easily creating Blueprint custom subsystems",
 	"Category": "Other",
